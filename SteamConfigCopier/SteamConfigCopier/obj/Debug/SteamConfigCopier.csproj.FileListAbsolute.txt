@@ -1,0 +1,14 @@
+C:\Users\gyula\source\repos\SteamConfigCopier\SteamConfigCopier\bin\Debug\SteamConfigCopier.exe.config
+C:\Users\gyula\source\repos\SteamConfigCopier\SteamConfigCopier\bin\Debug\SteamConfigCopier.exe
+C:\Users\gyula\source\repos\SteamConfigCopier\SteamConfigCopier\bin\Debug\SteamConfigCopier.pdb
+C:\Users\gyula\source\repos\SteamConfigCopier\SteamConfigCopier\obj\Debug\SteamConfigCopier.csproj.AssemblyReference.cache
+C:\Users\gyula\source\repos\SteamConfigCopier\SteamConfigCopier\obj\Debug\SteamConfigCopier.Properties.Resources.resources
+C:\Users\gyula\source\repos\SteamConfigCopier\SteamConfigCopier\obj\Debug\SteamConfigCopier.csproj.GenerateResource.cache
+C:\Users\gyula\source\repos\SteamConfigCopier\SteamConfigCopier\obj\Debug\SteamConfigCopier.csproj.CoreCompileInputs.cache
+C:\Users\gyula\source\repos\SteamConfigCopier\SteamConfigCopier\obj\Debug\SteamConfigCopier.exe
+C:\Users\gyula\source\repos\SteamConfigCopier\SteamConfigCopier\obj\Debug\SteamConfigCopier.pdb
+C:\Users\gyula\source\repos\SteamConfigCopier\SteamConfigCopier\obj\Debug\SteamConfigCopier.MainForm.resources
+C:\Users\gyula\source\repos\SteamConfigCopier\SteamConfigCopier\bin\Debug\SteamConfigCopier.exe.manifest
+C:\Users\gyula\source\repos\SteamConfigCopier\SteamConfigCopier\bin\Debug\SteamConfigCopier.application
+C:\Users\gyula\source\repos\SteamConfigCopier\SteamConfigCopier\obj\Debug\SteamConfigCopier.exe.manifest
+C:\Users\gyula\source\repos\SteamConfigCopier\SteamConfigCopier\obj\Debug\SteamConfigCopier.application
